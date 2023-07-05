@@ -96,7 +96,6 @@ class Pemrograman : public MataKuliah { //isi disini
 		cin >> tugasAkhir;
 		setUA(tugasAkhir);
 	}
-
 };
 
 int main() { //isi disini
